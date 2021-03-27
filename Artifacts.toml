@@ -1,0 +1,8 @@
+[[Qt5Tools]]
+arch = "x86_64"
+git-tree-sha1 = "83004459ab062a44bbbab1797181909f93344259"
+os = "macos"
+
+    [[Qt5Tools.download]]
+    sha256 = "34af234627f92e8d0437063a19b414647a6f002598d47342686433f16451f162"
+    url = "https://github.com/barche/Qt5Tools_jll.jl/releases/download/Qt5Tools-v5.15.2+0/Qt5Tools.v5.15.2.x86_64-apple-darwin.tar.gz"
