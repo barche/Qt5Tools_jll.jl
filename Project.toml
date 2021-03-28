@@ -1,6 +1,6 @@
 name = "Qt5Tools_jll"
 uuid = "a9c6e4b1-b2fb-56d5-96a9-25f276f13840"
-version = "5.15.2+0"
+version = "5.15.2+1"
 
 [deps]
 Qt5Base_jll = "ea2cea3b-5b76-57ae-a6ef-0a8af62496e1"
